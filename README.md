@@ -26,7 +26,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 **⏱️ Tempo:** 45 min | **📊 Exercícios:** 4
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py)
-[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.ipynb)
 
 **📋 O que você vai aprender:**
 - ✅ Calculadora básica com 4 operações
@@ -42,7 +42,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 **⏱️ Tempo:** 1h | **📊 Exercícios:** 4
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py)
-[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exerc%C3%ADcio_02.ipynb)
 
 **📋 O que você vai aprender:**
 - ✅ Gerador de tabuada
@@ -67,7 +67,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 **⏱️ Tempo:** 1.5h | **📊 Exercícios:** 4
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py)
-[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exerc%C3%ADcio_03.ipynb)
 
 **📋 O que você vai aprender:**
 - ✅ Calculadora modular
@@ -83,7 +83,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 **⏱️ Tempo:** 2h | **📊 Exercícios:** 4
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.py)
-[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exerc%C3%ADcio04_teste_conta.ipynb)
 
 **📋 O que você vai aprender:**
 - ✅ Agenda de contatos
@@ -104,7 +104,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 **⏱️ Tempo:** 3h | **📊 Exercícios:** 4 | **🏆 Nível:** Avançado
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py)
-[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/questoes__POO.ipynb)
 
 <details>
 <summary>🏗️ <strong>Projetos Incluídos</strong></summary>
