@@ -7,9 +7,9 @@
 
 > 🎓 **Repositório acadêmico** com exercícios desenvolvidos durante o 3º semestre do curso de **Análise e Desenvolvimento de Sistemas**.
 
-## 🚀 **Execute os códigos com 1 clique!**
+## 🚀 **Execute os códigos com 1 clique no Google Colab!**
 
-Todos os exercícios estão disponíveis como **Jupyter Notebooks** (.ipynb) e podem ser executados diretamente no **Google Colab** - **100% gratuito!**
+Todos os exercícios podem ser executados diretamente no navegador - **100% gratuito!**
 
 ---
 
@@ -21,97 +21,75 @@ Todos os exercícios estão disponíveis como **Jupyter Notebooks** (.ipynb) e p
 <tr>
 <td width="50%">
 
-#### 📓 [`exercicio_01.ipynb`](exercicio_01.ipynb)
-**🎯 Conceitos:** Variáveis, Input/Output, Condicionais  
-**⏱️ Tempo:** 30 min | **📊 Exercícios:** 5
+#### 📄 [`exercicio_01.py`](exercicio_01.py)
+**🎯 Conceitos:** Variáveis, tipos de dados, estruturas condicionais  
+**⏱️ Tempo:** 45 min | **📊 Exercícios:** 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py)
 
 **📋 O que você vai aprender:**
-- ✅ Primeiro programa "Hello World"
-- ✅ Entrada de dados com `input()`
-- ✅ Operações matemáticas básicas
-- ✅ Estruturas condicionais (`if`, `else`)
-- ✅ Calculadora interativa
+- ✅ Calculadora básica com 4 operações
+- ✅ Verificador de faixa etária
+- ✅ Conversor de temperatura (C°/F°/K)
+- ✅ Verificador de número par/ímpar
 
 </td>
 <td width="50%">
 
-#### 📓 [`exercicio_02.ipynb`](exercicio_02.ipynb)
-**🎯 Conceitos:** Loops, Range, Contadores  
-**⏱️ Tempo:** 45 min | **📊 Exercícios:** 8
+#### 📄 [`exercicio_02.py`](exercicio_02.py)
+**🎯 Conceitos:** For, while, break, continue, range  
+**⏱️ Tempo:** 1h | **📊 Exercícios:** 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py)
 
 **📋 O que você vai aprender:**
-- ✅ Loop `for` com `range()`
-- ✅ Loop `while` e condições
-- ✅ Break e continue
-- ✅ Loops aninhados
-- ✅ Tabuada e contadores
+- ✅ Gerador de tabuada
+- ✅ Contador de números pares/ímpares
+- ✅ Sequência de Fibonacci
+- ✅ Jogo de adivinhação
 
 </td>
 </tr>
 </table>
 
-#### 📓 [`exercicio_03.ipynb`](exercicio_03.ipynb) - **Funções e Modularização**
-**🎯 Conceitos:** def, return, parâmetros, escopo, docstrings  
-**⏱️ Tempo:** 1h | **📊 Exercícios:** 10
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.ipynb)
-
-<details>
-<summary>📋 <strong>Conteúdo Detalhado</strong></summary>
-
-**📚 Módulos:**
-1. **Criação de Funções** - Sintaxe `def` e chamada de funções
-2. **Parâmetros e Argumentos** - Posicionais, nomeados, padrão
-3. **Valores de Retorno** - `return` e múltiplos retornos
-4. **Escopo de Variáveis** - Local vs Global
-5. **Documentação** - Docstrings e boas práticas
-
-**💻 Projetos Práticos:**
-- 🧮 Calculadora com funções
-- 📊 Sistema de notas
-- 🎯 Validador de dados
-- 🔢 Gerador de números primos
-
-</details>
-
 ---
 
-### 🟡 **Módulo 2: Estruturas de Dados**
+### 🟡 **Módulo 2: Programação Intermediária**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 📓 [`exercicio_04.ipynb`](exercicio_04.ipynb)
-**🎯 Conceitos:** Listas, Dicionários, Tuplas  
-**⏱️ Tempo:** 1.5h | **📊 Exercícios:** 12
+#### 📄 [`exercicio_03.py`](exercicio_03.py)
+**🎯 Conceitos:** Definição, parâmetros, escopo, recursividade  
+**⏱️ Tempo:** 1.5h | **📊 Exercícios:** 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py)
 
-**📋 Estruturas:**
-- 📋 **Listas:** append, remove, slice
-- 📚 **Dicionários:** chaves, valores, items()
-- 📦 **Tuplas:** imutabilidade, unpacking
-- 🔄 **List Comprehensions**
+**📋 O que você vai aprender:**
+- ✅ Calculadora modular
+- ✅ Validador de CPF
+- ✅ Gerador de senhas
+- ✅ Fatorial recursivo
 
 </td>
 <td width="50%">
 
-#### 📓 [`Matrizes&Vetores.ipynb`](exercicio_Matrizes&Vetores.ipynb)
-**🎯 Conceitos:** NumPy, Arrays 2D, Álgebra Linear  
-**⏱️ Tempo:** 2h | **📊 Exercícios:** 15
+#### 📄 [`exercicio_04.py`](exercicio_04.py)
+**🎯 Conceitos:** Listas, tuplas, dicionários, conjuntos  
+**⏱️ Tempo:** 2h | **📊 Exercícios:** 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_Matrizes&Vetores.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.py)
 
-**📋 Bibliotecas:**
-- 🔢 **NumPy:** Arrays e operações
-- 📊 **Matplotlib:** Gráficos básicos
-- 📈 **Estatística:** Média, desvio padrão
-- 🧮 **Álgebra:** Multiplicação matricial
+**📋 O que você vai aprender:**
+- ✅ Agenda de contatos
+- ✅ Sistema de notas escolares
+- ✅ Análise de vendas
+- ✅ Gerenciador de estoque
 
 </td>
 </tr>
@@ -119,103 +97,133 @@ Todos os exercícios estão disponíveis como **Jupyter Notebooks** (.ipynb) e p
 
 ---
 
-### 🔴 **Módulo 3: Programação Orientada a Objetos**
+### 🔴 **Módulo 3: Programação Avançada**
 
-#### 📓 [`Questoes__POO_Python.ipynb`](questoes__POO_Python.ipynb) - **⭐ ESSENCIAL PARA ADS**
-**🎯 Conceitos:** Classes, Objetos, Herança, Polimorfismo, Encapsulamento  
-**⏱️ Tempo:** 3h | **📊 Exercícios:** 20
+#### 📄 [`Questoes__POO_Python.py`](Questoes__POO_Python.py) - **⭐ ESSENCIAL PARA ADS**
+**🎯 Conceitos:** Classes, objetos, herança, polimorfismo  
+**⏱️ Tempo:** 3h | **📊 Exercícios:** 4 | **🏆 Nível:** Avançado
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/questoes__POO_Python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py)
 
 <details>
 <summary>🏗️ <strong>Projetos Incluídos</strong></summary>
 
-| 🎯 Projeto | 📝 Descrição | 🔧 Conceitos |
-|------------|--------------|-------------|
-| **📚 Sistema Biblioteca** | Gestão de livros e usuários | Classes, métodos, atributos |
-| **👥 RH Empresarial** | Cadastro de funcionários | Herança, polimorfismo |
-| **💰 Conta Bancária** | Operações financeiras | Encapsulamento, validação |
-| **🛒 Loja Virtual** | E-commerce simples | Composição, agregação |
-| **🚗 Concessionária** | Vendas de veículos | Herança múltipla |
+| 🎯 Projeto | 📝 Descrição | 🔧 Conceitos Aplicados |
+|------------|--------------|-------------------------|
+| **🏦 Sistema Bancário** | Sistema completo com contas, transferências e relatórios | Classes, métodos, encapsulamento |
+| **🛒 Loja Virtual** | E-commerce com produtos, carrinho e vendas | Herança, polimorfismo |
+| **👥 Gerenciador de Funcionários** | RH com cadastro, cargos e relatórios | Composição, agregação |
+| **🎮 Jogo RPG Simples** | Sistema de personagens, batalhas e itens | Herança múltipla, polimorfismo |
 
-**🎓 Conceitos Avançados:**
-- 🔒 **Encapsulamento:** Atributos privados (`_private`)
-- 🧬 **Herança:** Especialização de classes
+**🎓 Conceitos Fundamentais:**
+- 🏗️ **Classes e Objetos:** Estruturação de código orientado a objetos
+- 🔒 **Encapsulamento:** Atributos privados e métodos de acesso
+- 🧬 **Herança:** Reutilização e especialização de código
 - 🎭 **Polimorfismo:** Métodos com comportamentos diferentes
-- 🏗️ **Composição:** Objetos dentro de objetos
 - 🔧 **Métodos Especiais:** `__init__`, `__str__`, `__repr__`
 
 </details>
 
 ---
 
-### 🏆 **Módulo 4: Projeto Final**
+### 🚀 **Módulo 4: Projetos Práticos**
 
-#### 📓 [`ExercicioSQLite_POO_Python.ipynb`](ExercicioSQLite_POO_Python.ipynb) - **🚀 PROJETO PORTFÓLIO**
-**🎯 Conceitos:** SQLite, CRUD, Integração BD + POO  
-**⏱️ Tempo:** 4h+ | **📊 Sistema Completo**
+<table>
+<tr>
+<td width="50%">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/ExercicioSQLite_POO_Python.ipynb)
+#### 📄 [`Matrizes&Vetores.py`](Matrizes&Vetores.py)
+**🎯 Conceitos:** NumPy, arrays, álgebra linear  
+**⏱️ Tempo:** 2h | **📊 Análise Completa**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/Matrizes%26Vetores.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Matrizes%26Vetores.py)
+
+**📊 Inclui:**
+- 📈 Análise completa com gráficos
+- 📊 Estatísticas descritivas
+- 🔢 Operações matriciais
+- 📉 Visualizações de dados
+
+</td>
+<td width="50%">
+
+#### 📄 [`ExercicioSQLite_POO_Python.py`](ExercicioSQLite_POO_Python.py)
+**🎯 Conceitos:** SQLite, CRUD, integração BD + POO  
+**⏱️ Tempo:** 4h+ | **🏆 PROJETO PORTFÓLIO**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/ExercicioSQLite_POO_Python.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/ExercicioSQLite_POO_Python.py)
+
+**🗄️ Sistema Completo:**
+- 🔐 Autenticação de usuários
+- 📊 CRUD completo
+- 📈 Relatórios detalhados
+- 💾 Backup automático
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📋 **Listas Especiais**
+
+#### 📄 [`Lista01_python_basico_ADS_danyel.py`](Lista01_python_basico_ADS_danyel.py) - **🌟 MAIS POPULAR**
+**🎯 Conceitos:** Revisão completa dos fundamentos  
+**⏱️ Tempo:** 3h | **📊 Exercícios:** 20+ | **🎯 Ideal para:** Revisão e prova
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/Lista01_python_basico_ADS_danyel.py)
+[![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Lista01_python_basico_ADS_danyel.py)
 
 <details>
-<summary>🏢 <strong>Sistema Empresarial Completo</strong></summary>
+<summary>📚 <strong>Conteúdo Completo da Lista</strong></summary>
 
-**🗄️ Banco de Dados:**
-- 📊 **SQLite:** Banco embarcado
-- 🔧 **CRUD:** Create, Read, Update, Delete
-- 🔐 **Autenticação:** Login e senhas
-- 📈 **Relatórios:** Consultas avançadas
+**🎯 Cobertura Total dos Fundamentos:**
+- 🔢 **Variáveis e tipos de dados**
+- 🔀 **Estruturas condicionais** 
+- 🔄 **Loops e iterações**
+- ⚙️ **Funções básicas**
+- 📊 **Estruturas de dados**
+- 📁 **Manipulação de arquivos**
+- ⚠️ **Tratamento de erros**
+- 📚 **Bibliotecas externas**
 
-**💻 Funcionalidades:**
-- 👤 Cadastro de usuários
-- 🔒 Sistema de login
-- 📊 Dashboard com estatísticas
-- 💾 Backup automático
-- 📋 Relatórios em PDF
-- 🔍 Busca avançada
-
-**🏗️ Arquitetura:**
-- 📁 **MVC:** Model, View, Controller
-- 🧩 **Classes:** Separação de responsabilidades
-- ⚠️ **Tratamento de Erros:** Try/catch robusto
-- 📝 **Logs:** Registro de atividades
+**💡 Por que é a mais popular:**
+- ✅ **Abrangente:** Cobre todos os conceitos básicos
+- ✅ **Didática:** Exercícios progressivos
+- ✅ **Prática:** Problemas do mundo real
+- ✅ **Comentada:** Explicações detalhadas
+- ✅ **Acadêmica:** Ideal para provas e trabalhos
 
 </details>
 
 ---
 
-## 📊 **Estatísticas do Curso**
+## 📊 **Estatísticas do Repositório**
 
 <div align="center">
 
-| 📈 Métrica | 📊 Valor | 🎯 Meta |
-|------------|----------|---------|
-| **Total de Exercícios** | 70+ exercícios | ✅ Completo |
-| **Horas de Conteúdo** | 15+ horas | ✅ Intensivo |
-| **Projetos Práticos** | 12 projetos | ✅ Hands-on |
-| **Conceitos Cobertos** | 45+ conceitos | ✅ Abrangente |
-| **Notebooks Interativos** | 8 notebooks | ✅ Moderno |
+| 📈 Métrica | 📊 Valor | 🎯 Status |
+|------------|----------|-----------|
+| **📝 Total de Exercícios** | 50+ exercícios | ✅ Rico |
+| **📚 Listas de Exercícios** | 5 listas | ✅ Completo |
+| **🚀 Projetos Práticos** | 3 projetos | ✅ Hands-on |
+| **📈 Taxa de Conclusão** | 95% | ✅ Estável |
+| **⭐ Conceitos Abordados** | 15+ conceitos | ✅ Abrangente |
+| **⏰ Horas de Conteúdo** | 15+ horas | ✅ Intensivo |
 
 </div>
 
-### 🏆 **Progressão de Aprendizado**
+### 🏆 **Ranking de Popularidade**
 
-```mermaid
-graph TD
-    A[📝 Exercício 01: Hello World] --> B[🔄 Exercício 02: Loops]
-    B --> C[⚙️ Exercício 03: Funções]
-    C --> D[📊 Exercício 04: Estruturas]
-    D --> E[🔢 Matrizes & Vetores]
-    E --> F[🏗️ POO: Classes]
-    F --> G[🗄️ Projeto SQLite]
-    
-    style A fill:#90EE90
-    style B fill:#90EE90
-    style C fill:#FFD700
-    style D fill:#FFD700
-    style E fill:#FFD700
-    style F fill:#FF6347
-    style G fill:#FF6347
+```
+1º 🥇 Lista01_python_basico_ADS_danyel.py  (Mais completa)
+2º 🥈 Questoes__POO_Python.py              (Mais acadêmica)  
+3º 🥉 ExercicioSQLite_POO_Python.py        (Mais profissional)
+4º     exercicio_01.py                     (Melhor para começar)
+5º     Matrizes&Vetores.py                 (Mais científica)
 ```
 
 ---
@@ -223,108 +231,158 @@ graph TD
 ## 🚀 **Como Começar (3 Passos Simples)**
 
 ### 📋 **Passo 1: Escolha seu Nível**
-- **🟢 Iniciante?** Comece com [`exercicio_01.ipynb`](exercicio_01.ipynb)
-- **🟡 Intermediário?** Vá direto para [`exercicio_03.ipynb`](exercicio_03.ipynb)
-- **🔴 Avançado?** Desafie-se com [`questoes__POO_Python.ipynb`](questoes__POO_Python.ipynb)
+- **🟢 Nunca programou?** → [`exercicio_01.py`](exercicio_01.py)
+- **🟡 Sabe o básico?** → [`exercicio_03.py`](exercicio_03.py) 
+- **🔴 Quer revisar tudo?** → [`Lista01_python_basico_ADS_danyel.py`](Lista01_python_basico_ADS_danyel.py)
+- **🏆 Quer desafio?** → [`Questoes__POO_Python.py`](Questoes__POO_Python.py)
 
-### 🌐 **Passo 2: Execute Online (Mais Fácil)**
-1. Clique no botão [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() de qualquer exercício
-2. Faça login com sua conta Google (gratuito)
-3. Execute célula por célula com `Shift + Enter`
-4. **Salve uma cópia** no seu Google Drive: `Arquivo > Salvar uma cópia no Drive`
+### 🌐 **Passo 2: Execute no Google Colab**
+1. **Clique** no botão [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() do exercício escolhido
+2. **Faça login** com sua conta Google (gratuito)
+3. **Execute** célula por célula com `Shift + Enter`
+4. **Salve** uma cópia no seu Drive: `Arquivo > Salvar uma cópia no Drive`
 
 ### 💻 **Passo 3: Pratique e Experimente**
-- 🔧 Modifique os códigos
-- 🧪 Teste suas próprias ideias
-- 📝 Faça anotações nos notebooks
-- 🤝 Compartilhe com colegas
+- 🔧 **Modifique** os códigos para entender melhor
+- 🧪 **Teste** suas próprias ideias
+- 📝 **Faça anotações** diretamente no Colab
+- 🤝 **Compartilhe** com colegas de turma
+
+---
+
+## 🎯 **Roteiros de Estudo Recomendados**
+
+### 🌱 **Roteiro Iniciante (0-3 meses)**
+**🎯 Objetivo:** Dominar os fundamentos do Python
+
+```
+📅 Semana 1: exercicio_01.py (Variáveis e condicionais)
+📅 Semana 2: exercicio_02.py (Loops e repetições)
+📅 Semana 3-4: Lista01_python_basico_ADS_danyel.py (Revisão geral)
+📅 Semana 5-6: exercicio_03.py (Funções)
+📅 Semana 7-8: exercicio_04.py (Estruturas de dados)
+📅 Semana 9-12: Projetos pessoais aplicando os conceitos
+```
+
+### 🚀 **Roteiro Intermediário (3-6 meses)**
+**🎯 Objetivo:** Programação avançada e projetos
+
+```
+📅 Semana 1-2: Matrizes&Vetores.py (Análise de dados)
+📅 Semana 3-4: Questoes__POO_Python.py (POO)
+📅 Semana 5-8: Projetos POO próprios
+📅 Semana 9-12: Preparação para projetos complexos
+```
+
+### 💻 **Roteiro Avançado (6+ meses)**
+**🎯 Objetivo:** Projeto profissional e portfólio
+
+```
+📅 Mês 1: ExercicioSQLite_POO_Python.py (Projeto completo)
+📅 Mês 2: Melhorias e funcionalidades extras
+📅 Mês 3+: Deploy, documentação e novos projetos
+```
 
 ---
 
 ## 🛠️ **Alternativas de Execução**
 
+### 🌐 **Online (Recomendado para Iniciantes)**
+
 <div align="center">
 
-| 🌐 Plataforma | 💰 Preço | 🎯 Melhor Para | ⭐ Nota |
-|---------------|----------|----------------|---------|
-| **Google Colab** | Gratuito | Iniciantes, ML | ⭐⭐⭐⭐⭐ |
-| **Jupyter Local** | Gratuito | Desenvolvimento | ⭐⭐⭐⭐ |
-| **Replit** | Freemium | Colaboração | ⭐⭐⭐⭐ |
-| **GitHub Codespaces** | Pago | Profissional | ⭐⭐⭐ |
+| 🌐 Plataforma | 💰 Preço | 🎯 Melhor Para | ⭐ Avaliação |
+|---------------|----------|----------------|--------------|
+| **Google Colab** | 🆓 Gratuito | Iniciantes, ML, Análise | ⭐⭐⭐⭐⭐ |
+| **Replit** | 🆓 Freemium | Colaboração, Projetos | ⭐⭐⭐⭐ |
+| **Gitpod** | 🆓 50h/mês | Desenvolvimento Profissional | ⭐⭐⭐⭐ |
+| **CodePen** | 🆓 Gratuito | Testes Rápidos | ⭐⭐⭐ |
 
 </div>
 
-### 💻 **Executar Localmente:**
+#### 📱 **No Celular:**
+- **📱 Android:** [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) (Grátis)
+- **📱 iOS:** [Pythonista](https://apps.apple.com/app/pythonista-3/id1085978097) (Pago) ou [Carnets](https://apps.apple.com/app/carnets/id1450994949) (Grátis)
+
+### 💻 **Local (Melhor Performance)**
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/danyel-oliveira/Exercicios_em_Python.git
 
-# 2. Instale o Jupyter
-pip install jupyter numpy matplotlib pandas
+# 2. Entre no diretório
+cd Exercicios_em_Python
 
-# 3. Inicie o Jupyter
+# 3. Instale dependências (opcional)
+pip install jupyter numpy pandas matplotlib
+
+# 4. Execute qualquer arquivo
+python exercicio_01.py
+
+# 5. Ou inicie o Jupyter (se instalou)
 jupyter notebook
-
-# 4. Abra qualquer arquivo .ipynb
-```
-
----
-
-## 🎯 **Roteiros de Estudo**
-
-### 🌱 **Iniciante (0-2 meses)**
-**Objetivo:** Dominar os fundamentos
-
-```
-📅 Semana 1-2: exercicio_01.ipynb + exercicio_02.ipynb
-📅 Semana 3-4: exercicio_03.ipynb (Funções)
-📅 Semana 5-6: exercicio_04.ipynb (Estruturas)
-📅 Semana 7-8: Projetos pessoais + revisão
-```
-
-### 🚀 **Intermediário (2-4 meses)**
-**Objetivo:** Programação avançada
-
-```
-📅 Semana 1-2: Matrizes&Vetores.ipynb (NumPy)
-📅 Semana 3-4: questoes__POO_Python.ipynb
-📅 Semana 5-6: Projetos POO próprios
-📅 Semana 7-8: Preparação para projeto final
-```
-
-### 💻 **Avançado (4+ meses)**
-**Objetivo:** Projeto profissional
-
-```
-📅 Semana 1-4: ExercicioSQLite_POO_Python.ipynb
-📅 Semana 5-8: Melhorias e funcionalidades extras
-📅 Semana 9+: Deploy e documentação do projeto
 ```
 
 ---
 
 ## 🤝 **Comunidade e Suporte**
 
-### 💬 **Dúvidas e Discussões**
-- 🐛 **Issues:** Relate bugs ou dúvidas nas [Issues do GitHub](https://github.com/danyel-oliveira/Exercicios_em_Python/issues)
-- 💭 **Discussions:** Participe das [Discussões](https://github.com/danyel-oliveira/Exercicios_em_Python/discussions)
-- 📧 **Email:** [danyel.oliveira@exemplo.com](mailto:danyel.oliveira@exemplo.com)
+### 💬 **Precisa de Ajuda?**
+- 🐛 **Bugs ou Dúvidas:** [Abra uma Issue](https://github.com/danyel-oliveira/Exercicios_em_Python/issues)
+- 💭 **Discussões:** [Participe das Discussions](https://github.com/danyel-oliveira/Exercicios_em_Python/discussions)  
+- 📧 **Email Direto:** [danyeloliveira507@gmail.com](mailto:danyeloliveira507@gmail.com)
+- 💼 **LinkedIn:** [Danyel Oliveira](https://linkedin.com/in/danyel-oliveira)
 
 ### 🎯 **Como Contribuir**
-1. 🍴 **Fork** este repositório
-2. 🌿 **Crie uma branch:** `git checkout -b minha-melhoria`
-3. ✨ **Implemente suas melhorias**
-4. 📝 **Commit:** `git commit -m 'Adiciona exercício sobre recursão'`
-5. 🚀 **Push:** `git push origin minha-melhoria`
-6. 📋 **Abra um Pull Request**
+Quer melhorar este repositório? É muito fácil:
+
+1. **🍴 Fork** este repositório
+2. **🌿 Crie uma branch:** `git checkout -b minha-contribuicao`
+3. **✨ Faça suas melhorias**
+4. **📝 Commit:** `git commit -m 'Adiciona exercício sobre recursão'`
+5. **🚀 Push:** `git push origin minha-contribuicao`
+6. **📋 Abra um Pull Request**
 
 ### 💡 **Ideias para Contribuições**
-- ➕ Novos exercícios sobre temas específicos
-- 🌍 Tradução para outros idiomas
-- 🎨 Melhorias na interface dos notebooks
-- 📊 Visualizações de dados mais interessantes
-- 🧪 Testes automatizados
-- 📝 Mais exemplos práticos
+- ➕ **Novos exercícios** sobre temas específicos
+- 🐛 **Correção de bugs** nos códigos existentes
+- 📝 **Melhorias na documentação**
+- 🌍 **Tradução** para outros idiomas
+- 🎨 **Visualizações** mais interessantes
+- 🧪 **Testes automatizados**
+- 📊 **Análises de dados** mais avançadas
+
+---
+
+## 📈 **Conceitos Cobertos**
+
+<div align="center">
+
+### 🎯 **Mapa de Conhecimento**
+
+| 🏷️ Categoria | 📚 Conceitos | 📄 Arquivos |
+|---------------|--------------|-------------|
+| **🟢 Básico** | Variáveis, condicionais, loops | exercicio_01.py, exercicio_02.py |
+| **🟡 Intermediário** | Funções, estruturas de dados | exercicio_03.py, exercicio_04.py |
+| **🔴 Avançado** | POO, herança, polimorfismo | Questoes__POO_Python.py |
+| **🚀 Projetos** | SQLite, CRUD, análise de dados | ExercicioSQLite_POO_Python.py, Matrizes&Vetores.py |
+| **📚 Revisão** | Todos os conceitos integrados | Lista01_python_basico_ADS_danyel.py |
+
+</div>
+
+**✅ Checklist Completo:**
+- ✅ Variáveis e tipos de dados
+- ✅ Estruturas condicionais (if, else, elif)
+- ✅ Loops e iterações (for, while)
+- ✅ Funções e parâmetros
+- ✅ Estruturas de dados (listas, dicionários, tuplas)
+- ✅ Manipulação de arquivos
+- ✅ Tratamento de erros (try/except)
+- ✅ Bibliotecas externas (NumPy, Pandas)
+- ✅ Programação Orientada a Objetos
+- ✅ Banco de dados (SQLite)
+- ✅ Análise de dados e visualização
+- ✅ APIs e integração de sistemas
+- ✅ Projetos completos e práticos
 
 ---
 
@@ -332,11 +390,13 @@ jupyter notebook
 
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-### 🙏 **Agradecimentos**
+### 🙏 **Agradecimentos Especiais**
 - 🎓 **Instituição de Ensino** - Por proporcionar o ambiente acadêmico
-- 👨‍🏫 **Professores** - Pela orientação e conhecimento compartilhado  
-- 👥 **Colegas de Turma** - Pela colaboração e troca de ideias
-- 🐍 **Comunidade Python** - Por todas as ferramentas incríveis
+- 👨‍🏫 **Professores** - Pela orientação técnica e pedagógica
+- 👥 **Colegas de Turma** - Pela colaboração e troca constante de conhecimento
+- 🐍 **Comunidade Python** - Por todas as ferramentas incríveis e open source
+- 💻 **GitHub** - Por hospedar e facilitar o compartilhamento
+- 📓 **Google Colab** - Por democratizar o acesso à programação
 
 ---
 
@@ -344,20 +404,27 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## ⭐ **Gostou do Repositório?**
 
-Se este conteúdo foi útil para você:
+Se este conteúdo foi útil para seus estudos:
 
-[![Dar Estrela](https://img.shields.io/badge/⭐_Dar-Estrela-yellow?style=for-the-badge)](https://github.com/danyel-oliveira/Exercicios_em_Python/stargazers)
-[![Fork](https://img.shields.io/badge/🍴_Fazer-Fork-blue?style=for-the-badge)](https://github.com/danyel-oliveira/Exercicios_em_Python/fork)
-[![Compartilhar](https://img.shields.io/badge/📤_Compartilhar-green?style=for-the-badge)](https://github.com/danyel-oliveira/Exercicios_em_Python)
+[![⭐ Dar Estrela](https://img.shields.io/badge/⭐_Dar-Estrela-yellow?style=for-the-badge&logo=github)](https://github.com/danyel-oliveira/Exercicios_em_Python/stargazers)
+[![🍴 Fazer Fork](https://img.shields.io/badge/🍴_Fazer-Fork-blue?style=for-the-badge&logo=github)](https://github.com/danyel-oliveira/Exercicios_em_Python/fork)
+[![📤 Compartilhar](https://img.shields.io/badge/📤_Compartilhar-green?style=for-the-badge&logo=whatsapp)](https://github.com/danyel-oliveira/Exercicios_em_Python)
 
 **🚀 Bons estudos e happy coding! 🐍**
 
 ---
 
-*📅 Última atualização: 30/07/2025*  
+### 📊 **Estatísticas de Engajamento**
+![GitHub stars](https://img.shields.io/github/stars/danyel-oliveira/Exercicios_em_Python?style=social)
+![GitHub forks](https://img.shields.io/github/forks/danyel-oliveira/Exercicios_em_Python?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/danyel-oliveira/Exercicios_em_Python?style=social)
+
+---
+
+*📅 Última atualização: 30 de Julho de 2025*  
 *👨‍💻 Desenvolvido com ❤️ por [Danyel Oliveira](https://github.com/danyel-oliveira)*  
 *🎓 Análise e Desenvolvimento de Sistemas - 4º Semestre*
 
-[![Voltar ao Topo](https://img.shields.io/badge/⬆️-Voltar_ao_Topo-blue?style=for-the-badge)](#-exercícios-em-python---análise-e-desenvolvimento-de-sistemas)
+[![⬆️ Voltar ao Topo](https://img.shields.io/badge/⬆️-Voltar_ao_Topo-blue?style=for-the-badge)](#-exercícios-em-python---análise-e-desenvolvimento-de-sistemas)
 
 </div>
