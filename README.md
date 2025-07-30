@@ -10,160 +10,86 @@
 ## 🚀 [Ver Demonstração Interativa](https://danyel-oliveira.github.io/Exercicios_em_Python/)
 
 ---
+## 📁 Estrutura dos Arquivos do Repositório
 
-## 📚 Lista de Exercícios
-
-### 📝 Lista 01 - Fundamentos Básicos
-**Conteúdo:** Variáveis, tipos de dados, estruturas condicionais
-- 📓 [Notebook GitHub](exercicios_colab/lista_01_basicos/lista_01.ipynb)
-- 🚀 [Abrir no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/lista_01_basicos/lista_01.ipynb)
-
-**Exercícios:**
-1. ✅ Calculadora básica com 4 operações
-2. ✅ Verificador de faixa etária
-3. ✅ Conversor de temperatura (C°/F°/K)
-4. ✅ Verificador de número par/ímpar
-
-### 🔁 Lista 02 - Loops e Iterações
-**Conteúdo:** For, while, break, continue, range
-- 📓 [Notebook GitHub](exercicios_colab/lista_02_loops/lista_02.ipynb)
-- 🚀 [Abrir no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/lista_02_loops/lista_02.ipynb)
-
-**Exercícios:**
-1. ✅ Gerador de tabuada
-2. ✅ Contador de números pares/ímpares
-3. ✅ Sequência de Fibonacci
-4. ✅ Jogo de adivinhação
-
-### ⚙️ Lista 03 - Funções
-**Conteúdo:** Definição, parâmetros, escopo, recursividade
-- 📓 [Notebook GitHub](exercicios_colab/lista_03_funcoes/lista_03.ipynb)
-- 🚀 [Abrir no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/lista_03_funcoes/lista_03.ipynb)
-
-**Exercícios:**
-1. ✅ Calculadora modular
-2. ✅ Validador de CPF
-3. ✅ Gerador de senhas
-4. ✅ Fatorial recursivo
-
-### 📊 Lista 04 - Estruturas de Dados
-**Conteúdo:** Listas, tuplas, dicionários, conjuntos
-- 📓 [Notebook GitHub](exercicios_colab/lista_04_estruturas_dados/lista_04.ipynb)
-- 🚀 [Abrir no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/lista_04_estruturas_dados/lista_04.ipynb)
-
-**Exercícios:**
-1. ✅ Agenda de contatos
-2. ✅ Sistema de notas escolares
-3. ✅ Análise de vendas
-4. ✅ Gerenciador de estoque
-
-### 🎯 Lista 05 - Programação Orientada a Objetos
-**Conteúdo:** Classes, objetos, herança, polimorfismo
-- 📓 [Notebook GitHub](exercicios_colab/lista_05_poo/lista_05.ipynb)
-- 🚀 [Abrir no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/lista_05_poo/lista_05.ipynb)
-
-**Exercícios:**
-1. ✅ Sistema bancário
-2. ✅ Loja virtual
-3. ✅ Gerenciador de funcionários
-4. ✅ Jogo RPG simples
+| 📄 Arquivo | 📝 Descrição | 🎯 Conceitos Principais | 📊 Nível | 🔗 Ação |
+|------------|--------------|--------------------------|----------|---------|
+| [`ExercicioSQLite_POO_Python.py`](ExercicioSQLite_POO_Python.py) | Sistema completo com banco SQLite e POO | SQLite, Classes, CRUD, Herança | 🔴 Avançado | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/ExercicioSQLite_POO_Python.py) |
+| [`Lista01_python_basico_ADS_danyel.py`](Lista01_python_basico_ADS_danyel.py) | Lista completa de exercícios fundamentais | Variáveis, if/else, loops, input/output | 🟢 Básico | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Lista01_python_basico_ADS_danyel.py) |
+| [`Matrizes&Vetores.py`](Matrizes&Vetores.py) | Manipulação de arrays e matrizes | NumPy, arrays 2D, operações matriciais | 🟡 Intermediário | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Matrizes&Vetores.py) |
+| [`Questoes__POO_Python.py`](Questoes__POO_Python.py) | Exercícios de Programação Orientada a Objetos | Classes, Objetos, Métodos, Atributos | 🔴 Avançado | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py) |
+| [`exercicio_01.py`](exercicio_01.py) | Exercícios básicos de Python | Calculadora, condicionais, menu interativo | 🟢 Básico | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py) |
+| [`exercicio_02.py`](exercicio_02.py) | Estruturas de repetição | for, while, range, contadores | 🟢 Básico | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py) |
+| [`exercicio_03.py`](exercicio_03.py) | Funções e modularização | def, return, parâmetros, escopo | 🟡 Intermediário | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py) |
+| [`exercicio_04.py`](exercicio_04.py) | Estruturas de dados | listas, dicionários, tuplas | 🟡 Intermediário | [▶️ Executar](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_04.py) |
+| [`LEIA-ME.md`](LEIA-ME.md) | Documentação adicional | Instruções e informações extras | 📚 Docs | [📖 Ler](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/LEIA-ME.md) |
+| [`README.md`](README.md) | Documentação principal do repositório | Markdown, estruturação de projetos | 📚 Docs | [📖 Ler](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/README.md) |
 
 ---
 
-## 🚀 Projetos Práticos
+## 📊 Análise do Repositório
 
-### 🏦 Sistema Bancário Completo
-Sistema completo com contas, transferências e relatórios
-- 📓 [Ver Código](exercicios_colab/projetos_praticos/sistema_bancario/)
-- 🚀 [Executar no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/projetos_praticos/sistema_bancario.ipynb)
-
-### 📈 Análise de Dados de Vendas
-Análise completa com gráficos e estatísticas
-- 📓 [Ver Código](exercicios_colab/projetos_praticos/analise_vendas/)
-- 🚀 [Executar no Colab](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicios_colab/projetos_praticos/analise_vendas.ipynb)
-
----
-
-## 🛠️ Como Executar
-
-### 🌐 Online (Google Colab)
-1. Clique em qualquer link "🚀 Abrir no Colab"
-2. Execute as células sequencialmente
-3. Interaja com os exercícios
-
-### 💻 Local (Jupyter/VS Code)
-```bash
-# Clone o repositório
-git clone https://github.com/danyel-oliveira/Exercicios_em_Python.git
-
-# Entre no diretório
-cd Exercicios_em_Python
-
-# Instale dependências
-pip install jupyter numpy pandas matplotlib
-
-# Inicie o Jupyter
-jupyter notebook
+### 🎯 **Distribuição por Nível**
+```
+🟢 Básico      ████████████████ 40% (4 arquivos)
+🟡 Intermediário ████████████   30% (3 arquivos) 
+🔴 Avançado     ████████       20% (2 arquivos)
+📚 Documentação ████           10% (2 arquivos)
 ```
 
----
+### 🏆 **Arquivos Mais Importantes**
 
-## 📊 Estatísticas do Repositório
+| 🌟 Destaque | Arquivo | Por que é importante |
+|-------------|---------|---------------------|
+| **⭐ INICIANTE** | `exercicio_01.py` | Perfeito para quem está começando |
+| **🔥 POPULAR** | `Lista01_python_basico_ADS_danyel.py` | Lista completa e bem estruturada |
+| **💎 AVANÇADO** | `ExercicioSQLite_POO_Python.py` | Mostra conhecimento de BD + POO |
+| **🎓 ACADÊMICO** | `Questoes__POO_Python.py` | Essencial para ADS |
 
-| Métrica | Valor |
-|---------|-------|
-| 📝 Exercícios | 50+ |
-| 📚 Listas | 5 |
-| 🚀 Projetos | 3 |
-| 📈 Taxa de Conclusão | 95% |
-| ⭐ Conceitos Abordados | 15+ |
+### 📈 **Progressão de Estudos Recomendada**
 
----
+```
+1️⃣ exercicio_01.py           (Fundamentos)
+    ↓
+2️⃣ exercicio_02.py           (Loops)
+    ↓  
+3️⃣ Lista01_python_basico...  (Revisão Geral)
+    ↓
+4️⃣ exercicio_03.py           (Funções)
+    ↓
+5️⃣ exercicio_04.py           (Estruturas de Dados)
+    ↓
+6️⃣ Matrizes&Vetores.py       (Arrays)
+    ↓
+7️⃣ Questoes__POO_Python.py   (POO)
+    ↓
+8️⃣ ExercicioSQLite_POO...    (Projeto Final)
+```
 
-## 🎯 Conceitos Abordados
+### 🛠️ **Como Usar Este Repositório**
 
-### 🔥 Básico
-- ✅ Variáveis e tipos de dados
-- ✅ Estruturas condicionais
-- ✅ Loops e iterações
-- ✅ Funções básicas
+#### 🎯 **Para Iniciantes:**
+1. Comece com `exercicio_01.py`
+2. Pratique com `exercicio_02.py`  
+3. Consolide com `Lista01_python_basico_ADS_danyel.py`
 
-### 🚀 Intermediário
-- ✅ Estruturas de dados
-- ✅ Manipulação de arquivos
-- ✅ Tratamento de erros
-- ✅ Bibliotecas externas
+#### 🚀 **Para Intermediários:**
+1. Domine `exercicio_03.py` e `exercicio_04.py`
+2. Desafie-se com `Matrizes&Vetores.py`
+3. Avance para POO
 
-### 🎓 Avançado
-- ✅ Programação Orientada a Objetos
-- ✅ Análise de dados
-- ✅ APIs e web scraping
-- ✅ Projetos completos
-
----
-
-## 🤝 Como Contribuir
-
-1. Fork este repositório
-2. Crie uma branch: `git checkout -b minha-contribuicao`
-3. Commit suas mudanças: `git commit -m 'Adiciona novo exercício'`
-4. Push para a branch: `git push origin minha-contribuicao`
-5. Abra um Pull Request
-
----
-
-## 📞 Contato
-
-**Danyel Oliveira**  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📧 Email: [danyeloliveira507@gmail.com].
-💼 LinkedIn:(https://linkedin.com/in/danyel-oliveira)  
+#### 💻 **Para Avançados:**
+1. Estude `Questoes__POO_Python.py` 
+2. Implemente `ExercicioSQLite_POO_Python.py`
+3. Crie seus próprios projetos baseados nos exemplos
 
 ---
 
-<div align="center">
+## 🎨 **Legenda de Ícones**
 
-**⭐ Se este repositório te ajudou, deixe uma estrela!**
-
-
-</div>
+| Ícone | Significado | Ícone | Significado |
+|-------|-------------|-------|-------------|
+| 🟢 | Nível Básico | 📄 | Arquivo Python |
+| 🟡 | Nível Intermediário | 📚 | Documentação |
+| 🔴 | Nível Avançado | ▶️ | Executar código |
+| 🎯 | Conceito importante | 📖 | Ler arquivo |
