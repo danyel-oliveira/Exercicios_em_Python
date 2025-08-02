@@ -23,7 +23,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 
 #### 📄 [`exercicio_01.py`](exercicio_01.py)
 **🎯 Conceitos:** Variáveis, tipos de dados, estruturas condicionais  
-**⏱️ Tempo:** 45 min | **📊 Exercícios:** 4
+**⏱️ Tempo:** 45 min | **📊 Exercícios:** 1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.py)
 [![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_01.ipynb)
@@ -39,7 +39,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 
 #### 📄 [`exercicio_02.py`](exercicio_02.py)
 **🎯 Conceitos:** For, while, break, continue, range  
-**⏱️ Tempo:** 1h | **📊 Exercícios:** 4
+**⏱️ Tempo:** 1h | **📊 Exercícios:** 2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_02.py)
 [![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exerc%C3%ADcio_02.ipynb)
@@ -64,7 +64,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 
 #### 📄 [`exercicio_03.py`](exercicio_03.py)
 **🎯 Conceitos:** Definição, parâmetros, escopo, recursividade  
-**⏱️ Tempo:** 1.5h | **📊 Exercícios:** 4
+**⏱️ Tempo:** 1.5h | **📊 Exercícios:** 3
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/exercicio_03.py)
 [![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/exerc%C3%ADcio_03.ipynb)
@@ -101,7 +101,7 @@ Todos os exercícios podem ser executados diretamente no navegador - **100% grat
 
 #### 📄 [`Questoes__POO_Python.py`](Questoes__POO_Python.py) - **⭐ ESSENCIAL PARA ADS**
 **🎯 Conceitos:** Classes, objetos, herança, polimorfismo  
-**⏱️ Tempo:** 3h | **📊 Exercícios:** 4 | **🏆 Nível:** Avançado
+**⏱️ Tempo:** 3h | **📊 Exercícios:** 5 | **🏆 Nível:** Avançado
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danyel-oliveira/Exercicios_em_Python/blob/main/Questoes__POO_Python.py)
 [![Ver Código](https://img.shields.io/badge/👁️_Ver-Código-blue?style=flat-square)](https://github.com/danyel-oliveira/Exercicios_em_Python/blob/main/questoes__POO.ipynb)
